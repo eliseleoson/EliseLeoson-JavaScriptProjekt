@@ -1,0 +1,17 @@
+body {
+  background-color: #4a4a4a;
+  margin-bottom: 15vh;
+}
+
+div {
+  margin: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 10px;
+  background-color: #b5b0a1;
+}
+
+button {
+  width: 20vmax;
+  background-color: #b5b0a1;
+  border: 0%;
+}
