@@ -1,17 +1,24 @@
 body {
   background-color: #4a4a4a;
   margin-bottom: 15vh;
+  color: #4e4e4e;
 }
 
 div {
   margin: 1.5rem;
   padding: 1.5rem;
   border-radius: 10px;
-  background-color: #b5b0a1;
+  background-color: #c4c4c4;
 }
 
 button {
-  width: 20vmax;
-  background-color: #b5b0a1;
-  border: 0%;
+  width: 15vmax;
+  background-color: #c4c4c4;
+  color: #4e4e4e;
+  height: 5vmax;
+  font-size: 2vmax;
+  margin-left: 42.5%;
+  border: 0vmax;
+  border-radius: 2vmax;
+  
 }
